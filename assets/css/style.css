@@ -1,0 +1,64 @@
+#espacio{
+    margin-right: 20px;
+}
+
+
+#contenedor{
+    margin-top: 15px;
+    margin-left: 550px;
+    margin-right: 550px;
+    text-align: center;
+}
+
+#Objetivo{
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 60px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#pie{
+    margin: 0 auto;
+    margin-top: 10px;
+    font-size: small;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.margen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#general{
+    font-family: 'Black Ops One', cursive;
+    text-align: center;
+    
+}
+
+#temas{
+    font-family: 'Signika Negative', sans-serif;
+}
+
+
+.parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+#alumnos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+
